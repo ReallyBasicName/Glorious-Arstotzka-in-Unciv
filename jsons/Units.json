@@ -1,0 +1,16 @@
+[
+	{
+		"name": "Border Guard",
+		"uniqueTo": "Arstotzka",
+		"replaces": "Infantry",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 70,
+		"cost": 360,
+		"requiredTech": "Plastics",
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"uniques" : ["[+5]% Strength <in [Friendly Land] tiles>"],
+		"attackSound": "shot"
+	},
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Border Checkpoint",
+		"uniqueTo": "Arstotzka",
+		"replaces": "Police Station",
+        "cost": 300,
+        "maintenance": 1,
+		"food": 1,
+        "hurryCostModifier": 10,
+        "uniques": ["Hidden when espionage is disabled", "[-30]% enemy spy effectiveness [in this city]"],
+        "requiredBuilding": "Constabulary",
+        "requiredTech": "Electricity"
+    },
+]

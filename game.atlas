@@ -1,0 +1,20 @@
+
+game.png
+size: 512, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+LeaderIcons/Glorious Leader
+  rotate: false
+  xy: 4, 4
+  size: 175, 175
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+NationIcons/Arstotzka
+  rotate: false
+  xy: 187, 79
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

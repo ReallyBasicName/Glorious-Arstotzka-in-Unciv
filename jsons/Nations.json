@@ -1,0 +1,86 @@
+[
+	
+	{
+		"name": "Arstotzka",
+		"leaderName": "Glorious Leader",
+		"adjective": ["Arstotzkan"],
+		//"startBias": [],
+		"personality": "Glorious",
+		"preferredVictoryType":"Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "You have committed the greatest of crimes: disloyalty. Prepare to be erased from history.",
+		"attacked": "Oceania is eternal. All memory of your resistance will be... erased.",
+		"defeated": "Arstotzka.",
+		"introduction": "Arstotzka welcomes you.",
+
+		"neutralHello": "Glory to Arstotzka!",
+		"hateHello": "Papers, Please.",
+
+		"tradeRequest": "May I interest you in an exchange of goods?.",
+		
+		"outerColor": [45, 60, 48],
+		"innerColor": [215, 88, 86],
+
+		//"favoredReligion": "",
+		"uniqueName": "Glory of Arstotzka",
+		"uniques": [
+			"[+1 Production] from each Trade Route",
+			"[+10]% [Culture] [in capital] <upon declaring war with a major Civilization> <for [5] turns>"
+		],
+		"cities": [
+			"Orvech Vonor",
+			"East Grestin",
+			"Nirsk",
+			"Paradizna",
+			"Gennistora",
+			"Lendiforma",
+			"Wozenfield",
+			"Fardesto",
+			"Altan",
+			"Vescillo",
+			"Burnton",
+			"Octovalis",
+			"Bryansk",
+			"Tver",
+			"Novosibirsk",
+			"Magadan",
+			"Murmansk",
+			"Irkutsk",
+			"Chita",
+			"Samara",
+			"Arkhangel'sk",
+			"Chelyabinsk",
+			"Tobol'sk",
+			"Vologda",
+			"Omsk",
+			"Astrakhan",
+			"Kursk",
+			"Saratov",
+			"Tula",
+			"Vladimir",
+			"Perm",
+			"Voronezh",
+			"Pskov",
+			"Staraya Russa",
+			"Kostroma",
+			"Nizhniy Novgorod",
+			"Suzdal'",
+			"Magnitogorsk"
+		],
+		"spyNames": [
+			"Jorji",
+			"Dimitri",
+			"Alexei",
+			"Elisa",
+			"Sergiu",
+			"Calensk",
+			"M. Vonel",
+			"Mikhail",
+			"Natacha",
+			"Zmeya"
+		]
+	}
+]
