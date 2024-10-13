@@ -11,19 +11,19 @@
 		"startIntroPart1": "",
 		"startIntroPart2": "",
 
-		"declaringWar": "You have committed the greatest of crimes: disloyalty. Prepare to be erased from history.",
-		"attacked": "Oceania is eternal. All memory of your resistance will be... erased.",
+		"declaringWar": "Arstotzka liberate people under oppression.",
+		"attacked": "Mighty Arstotzka will defend its borders against you!",
 		"defeated": "Arstotzka.",
 		"introduction": "Arstotzka welcomes you.",
 
 		"neutralHello": "Glory to Arstotzka!",
-		"hateHello": "Papers, Please.",
+		"hateHello": "Arstotzkans only.",
 
-		"tradeRequest": "May I interest you in an exchange of goods?.",
+		"tradeRequest": "You have something to give us.",
 		
 		"outerColor": [45, 60, 48],
 		"innerColor": [215, 88, 86],
-
+ 
 		//"favoredReligion": "",
 		"uniqueName": "Glory of Arstotzka",
 		"uniques": [
