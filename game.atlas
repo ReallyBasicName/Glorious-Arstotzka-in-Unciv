@@ -18,3 +18,10 @@ NationIcons/Arstotzka
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Arstotzka-alt
+  rotate: false
+  xy: 295, 79
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
